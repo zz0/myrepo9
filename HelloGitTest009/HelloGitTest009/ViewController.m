@@ -6,6 +6,9 @@
 //  Copyright (c) 2014年 LZH. All rights reserved.
 //
 
+//z77 modify in Ubuntu
+
+
 #import "ViewController.h"
 
 @interface ViewController ()
